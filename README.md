@@ -59,7 +59,3 @@ This follows Claude's skill progressive-disclosure convention: keep the always-l
 ## Tradeoff
 
 These checks bias toward caution over speed. For genuinely trivial tasks, Claude is instructed to use judgment rather than apply all four ceremonially. If you find it slowing down simple work, that's a sign the description needs tightening, not that the principles are wrong.
-
-## License
-
-MIT
